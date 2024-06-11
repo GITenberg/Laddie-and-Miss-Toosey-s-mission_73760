@@ -1,0 +1,28 @@
+_repo: Laddie-and-Miss-Toosey-s-mission_73760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitaker, Evelyn
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '34555'
+    url: http://www.gutenberg.org/2009/agents/34555
+    wikipedia: https://en.wikipedia.org/wiki/Evelyn_Whitaker
+description: ''
+gutenberg_issued: '2024-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73760'
+language: en
+pgterms:marc905: 20240505212544whitaker
+pgterms:marc906: '1897'
+pgterms:marc907: us
+production_note: Al Haines
+publication_note: '  $aPhiladelphia :$bHenry Altemus, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Laddie and Miss Toosey's mission
+url: http://www.gutenberg.org/ebooks/73760
